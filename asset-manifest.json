@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/recipe-app/static/css/main.ba8a064c.chunk.css",
+    "main.js": "/recipe-app/static/js/main.c743357d.chunk.js",
+    "main.js.map": "/recipe-app/static/js/main.c743357d.chunk.js.map",
+    "runtime-main.js": "/recipe-app/static/js/runtime-main.5cd49126.js",
+    "runtime-main.js.map": "/recipe-app/static/js/runtime-main.5cd49126.js.map",
+    "static/js/2.ceae8ae2.chunk.js": "/recipe-app/static/js/2.ceae8ae2.chunk.js",
+    "static/js/2.ceae8ae2.chunk.js.map": "/recipe-app/static/js/2.ceae8ae2.chunk.js.map",
+    "index.html": "/recipe-app/index.html",
+    "precache-manifest.6215798dd14295dba42fda93f0aa035c.js": "/recipe-app/precache-manifest.6215798dd14295dba42fda93f0aa035c.js",
+    "service-worker.js": "/recipe-app/service-worker.js",
+    "static/css/main.ba8a064c.chunk.css.map": "/recipe-app/static/css/main.ba8a064c.chunk.css.map",
+    "static/js/2.ceae8ae2.chunk.js.LICENSE.txt": "/recipe-app/static/js/2.ceae8ae2.chunk.js.LICENSE.txt",
+    "static/media/NotFound.jpg": "/recipe-app/static/media/NotFound.9dc636db.jpg",
+    "static/media/Hero.module.css": "/recipe-app/static/media/a.c506f1fe.jpg",
+    "static/media/Recipes.module.css": "/recipe-app/static/media/bg.90c54723.png",
+    "static/media/logo.jpg": "/recipe-app/static/media/logo.fd14b7c3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cd49126.js",
+    "static/js/2.ceae8ae2.chunk.js",
+    "static/css/main.ba8a064c.chunk.css",
+    "static/js/main.c743357d.chunk.js"
+  ]
+}
