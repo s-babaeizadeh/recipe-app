@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/recipe-app/static/css/main.800d6414.chunk.css",
-    "main.js": "/recipe-app/static/js/main.212b89fc.chunk.js",
-    "main.js.map": "/recipe-app/static/js/main.212b89fc.chunk.js.map",
-    "runtime-main.js": "/recipe-app/static/js/runtime-main.5cd49126.js",
-    "runtime-main.js.map": "/recipe-app/static/js/runtime-main.5cd49126.js.map",
-    "static/js/2.ceae8ae2.chunk.js": "/recipe-app/static/js/2.ceae8ae2.chunk.js",
-    "static/js/2.ceae8ae2.chunk.js.map": "/recipe-app/static/js/2.ceae8ae2.chunk.js.map",
-    "index.html": "/recipe-app/index.html",
-    "precache-manifest.09ed557c6da7220b9df48ed2cec9d29d.js": "/recipe-app/precache-manifest.09ed557c6da7220b9df48ed2cec9d29d.js",
-    "service-worker.js": "/recipe-app/service-worker.js",
-    "static/css/main.800d6414.chunk.css.map": "/recipe-app/static/css/main.800d6414.chunk.css.map",
-    "static/js/2.ceae8ae2.chunk.js.LICENSE.txt": "/recipe-app/static/js/2.ceae8ae2.chunk.js.LICENSE.txt",
-    "static/media/NotFound.jpg": "/recipe-app/static/media/NotFound.9dc636db.jpg",
-    "static/media/Hero.module.css": "/recipe-app/static/media/a.c506f1fe.jpg",
-    "static/media/Recipes.module.css": "/recipe-app/static/media/bg.90c54723.png",
-    "static/media/logo.jpg": "/recipe-app/static/media/logo.fd14b7c3.jpg"
+    "main.css": "/food/static/css/main.4ebd0aeb.chunk.css",
+    "main.js": "/food/static/js/main.212b89fc.chunk.js",
+    "main.js.map": "/food/static/js/main.212b89fc.chunk.js.map",
+    "runtime-main.js": "/food/static/js/runtime-main.d9687a75.js",
+    "runtime-main.js.map": "/food/static/js/runtime-main.d9687a75.js.map",
+    "static/js/2.ceae8ae2.chunk.js": "/food/static/js/2.ceae8ae2.chunk.js",
+    "static/js/2.ceae8ae2.chunk.js.map": "/food/static/js/2.ceae8ae2.chunk.js.map",
+    "index.html": "/food/index.html",
+    "precache-manifest.1353020ffa85383822b3dbe707142eb1.js": "/food/precache-manifest.1353020ffa85383822b3dbe707142eb1.js",
+    "service-worker.js": "/food/service-worker.js",
+    "static/css/main.4ebd0aeb.chunk.css.map": "/food/static/css/main.4ebd0aeb.chunk.css.map",
+    "static/js/2.ceae8ae2.chunk.js.LICENSE.txt": "/food/static/js/2.ceae8ae2.chunk.js.LICENSE.txt",
+    "static/media/NotFound.jpg": "/food/static/media/NotFound.9dc636db.jpg",
+    "static/media/Hero.module.css": "/food/static/media/a.c506f1fe.jpg",
+    "static/media/Recipes.module.css": "/food/static/media/bg.90c54723.png",
+    "static/media/logo.jpg": "/food/static/media/logo.fd14b7c3.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5cd49126.js",
+    "static/js/runtime-main.d9687a75.js",
     "static/js/2.ceae8ae2.chunk.js",
-    "static/css/main.800d6414.chunk.css",
+    "static/css/main.4ebd0aeb.chunk.css",
     "static/js/main.212b89fc.chunk.js"
   ]
 }
